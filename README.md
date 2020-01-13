@@ -1,3 +1,5 @@
+[OBSOLETE], check [new version](https://github.com/zapsa/docker-ejabberd-v2).
+
 # rroemhild/ejabberd
 
 ![Docker Build Status](https://img.shields.io/docker/build/rroemhild/ejabberd.svg) ![Docker Stars](https://img.shields.io/docker/stars/rroemhild/ejabberd.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/rroemhild/ejabberd.svg)
